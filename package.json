@@ -1,0 +1,19 @@
+{
+  "name": "nothingjs",
+  "version": "0.0.1",
+  "description": "The Smallest Javascript Library In The Solar System",
+  "main": "nothing.js",
+  "scripts": {
+    "test": "node test/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshallmick007/nothingjs.git"
+  },
+  "author": "Marshall Mickelson",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/marshallmick007/nothingjs/issues"
+  },
+  "homepage": "https://github.com/marshallmick007/nothingjs#readme"
+}
