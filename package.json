@@ -1,6 +1,6 @@
 {
   "name": "nothingjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Smallest Javascript Library In The Solar System",
   "main": "nothing.js",
   "scripts": {
