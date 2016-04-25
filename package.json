@@ -1,6 +1,6 @@
 {
   "name": "nothingjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The Smallest Javascript Library In The Solar System",
   "main": "nothing.js",
   "scripts": {
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/marshallmick007/nothingjs/issues"
   },
-  "homepage": "https://github.com/marshallmick007/nothingjs#readme"
+  "homepage": "https://nothingjs.com"
 }
